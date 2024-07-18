@@ -1,7 +1,7 @@
 import streamlit as st
-# import pandas as pd
-# from supabase import create_client, Client
-# from datetime import datetime
+import pandas as pd
+from supabase import create_client, Client
+from datetime import datetime
 
 st.set_page_config(page_title="2024 F1 Fantasy", page_icon="🏆", layout="wide")
 
