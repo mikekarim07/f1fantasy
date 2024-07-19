@@ -14,7 +14,7 @@ current_time = datetime.now()
 year = '2024'
 month = '7'
 day = '19'
-hora = '17'
+hora = '15'
 minuto = '00' 
 hora_limite = datetime.strptime(f"{year}-{month}-{day} {hora}:{minuto}", '%Y-%m-%d %H:%M')
 
